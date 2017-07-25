@@ -79,7 +79,7 @@ Remember to change the key when deploying on a live system
 ## Credits
 * **Akinjiola Toni** *Toniton* [sails-hook-datatable](https://github.com/toniton/sails-hook-datatable)
 
-* **Kevin Constantine** *K-Constantine* [kitchen](https://github.com/K-Constantine/Kitchen)
+* **Kevin Constantine** *K-Constantine* [kitchen](https://github.com/K-Constantine/Amaraki)
 
 
 ## License
